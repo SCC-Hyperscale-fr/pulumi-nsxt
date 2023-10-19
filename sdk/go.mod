@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-xyz/sdk
+module github.com/SCC-Hyperscale-fr/pulumi-nsxt/sdk
 
 go 1.17
 
